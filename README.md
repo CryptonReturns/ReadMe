@@ -20,7 +20,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Roadmap](#Future Plans)
+* [Roadmap](#Future-Plans)
 * [License](#license)
 * [Contact](#contact)
 
@@ -56,6 +56,7 @@ Get your daily shot of current affairs with NewsUs!
 - [Firebase](firebase.google.com)
 - [Python](www.python.org)
 - [Gensim]()
+- [Flutter](flutter.dev)
 ## NewsUsScraper
 NewsUsScraper is a python worker deployed on heroku which updates our news article database every few minutes. This worker crawls through major active news websites to find the list of unique stories and adds them to our central database. 
 
