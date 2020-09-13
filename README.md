@@ -42,7 +42,8 @@ Get your daily shot of current affairs with NewsUs!
 ## Features
 - ### Categorized News: Diverse content
 	Find diverse news headlines under various categories like Sports, Local, National and International news
-
+## NewsUs Web App Demo:
+![gif](Website.gif)
 ### Tech Stack:
 - [React](reactjs.org)
 - [Nodejs](nodejs.org)
