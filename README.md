@@ -39,6 +39,10 @@ NewsUs is a news application that selects the major headlines from various local
 From events happening across the world to those in your own city, NewsUs processes and delivers them to you in a jiffy!
 Get your daily shot of current affairs with NewsUs!
 
+## Features
+- ### Categorized News: Diverse content
+	Find diverse news headlines under various categories like Sports, Local, National and International news
+
 ### Tech Stack:
 - [React](reactjs.org)
 - [Nodejs](nodejs.org)
