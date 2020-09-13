@@ -42,6 +42,10 @@ Get your daily shot of current affairs with NewsUs!
 ## Features
 - ### Categorized News: Diverse content
 	Find diverse news headlines under various categories like Sports, Local, National and International news
+- ### News Reader: Summaries of all Headlines
+	Browse through to get updated on latest headlines in a few minutes
+	Read the original articles by tapping the links provided
+	Catch a quick glance of the stories
 ## NewsUs Web App Demo:
 ![gif](Website.gif)
 
