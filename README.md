@@ -51,12 +51,12 @@ Get your daily shot of current affairs with NewsUs!
 ## NewsUs Flutter App Demo:
 ![gif](App.gif)
 ### Tech Stack:
-- [React](reactjs.org)
-- [Nodejs](nodejs.org)
-- [Firebase](firebase.google.com)
-- [Python](www.python.org)
+- [React](https://reactjs.org/)
+- [Nodejs](https://nodejs.org)
+- [Firebase](https://firebase.google.com)
+- [Python](https://www.python.org)
 - [Gensim]()
-- [Flutter](flutter.dev)
+- [Flutter](https://flutter.dev)
 ## NewsUsScraper
 NewsUsScraper is a python worker deployed on heroku which updates our news article database every few minutes. This worker crawls through major active news websites to find the list of unique stories and adds them to our central database. 
 
