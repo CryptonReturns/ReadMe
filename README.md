@@ -72,6 +72,9 @@ Websites for different categories:
 
 <!-- ROADMAP -->
 ## Future Plans
+- More diversification within categories
+- User choice related headlines
+- We plan to expand our database to include more articles 
 
 <!-- LICENSE -->
 ## License
