@@ -44,6 +44,9 @@ Get your daily shot of current affairs with NewsUs!
 	Find diverse news headlines under various categories like Sports, Local, National and International news
 ## NewsUs Web App Demo:
 ![gif](Website.gif)
+
+## NewsUs Flutter App Demo:
+![gif](App.gif)
 ### Tech Stack:
 - [React](reactjs.org)
 - [Nodejs](nodejs.org)
@@ -60,13 +63,6 @@ Websites for different categories:
 - Entertainment: [NY Times](https://www.nytimes.com/section/arts/television)
 - International: [BBC](https://www.bbc.com/news)
 - General: [Times Of India](https://timesofindia.indiatimes.com)
-
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
 
 
 
